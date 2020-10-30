@@ -1,0 +1,12 @@
+pip install scipy
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install gensim
+pip install sner
+pip install spacy==2.1.0
+pip install sklearn
+python -m spacy download en
+pip install pyyaml
+pip install nltk
+pip install imbalanced-learn
